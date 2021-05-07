@@ -1,9 +1,22 @@
 I’m Anish Nair a Data Analytics Engineering Grad Student at Northeastern University
--Pronouns: He/Him.
+
+Pronouns: He/Him.
 
 My Interest:
 
--1) Football Analytics
+1) Football Analytics:
+
+    -Creating visualisations to analyse team and player performances
+
+    -Statistical Modelling
+
+
+2) Data Analytics
+
+
+3) Machine Learning Applications
+
+
 
 
 
