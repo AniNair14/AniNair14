@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Anish Nair a Data Analytics Engineering Grad Student at Northeastern University
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m Anish Nair a Data Analytics Engineering Grad Student at Northeastern University
+Pronouns: He/Him.
+
+My Interest:
+!) Football Analytics
+
+
+
 
 <!---
 AniNair14/AniNair14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
