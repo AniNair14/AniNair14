@@ -4,11 +4,11 @@ Pronouns: He/Him.
 
 My Interest:
 
-1) Football Analytics:
+1) Football Analytics :soccer: :
 
-    -Creating visualisations to analyse team and player performances
+    - Creating visualisations to analyse team and player performances
 
-    -Statistical Modelling
+    - Statistical Modelling
 
 
 2) Data Analytics
