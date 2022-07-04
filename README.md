@@ -11,7 +11,7 @@ Pronouns: He/Him.
     - Statistical Modelling
 
 
-2) Data Analytics
+2) Data Science
 
 
 3) Machine Learning Applications
