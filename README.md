@@ -9,15 +9,18 @@ Pronouns: He/Him.
     - Creating visualisations to analyse team and player performances
 
     - Statistical Modelling
+    
+    - Identifying trends in team and player performances
 
 
-2) Data Science
+2) Data Science:
 
+    - Developing tools to assist in data-driven decisions
 
 3) Machine Learning Applications
 
 
-
+4) Cricket Analytics :cricket_game: :
 
 
 
